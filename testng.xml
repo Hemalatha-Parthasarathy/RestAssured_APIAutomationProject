@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite1">
+
+    <listeners>
+        <listener class-name="api.utilities.ExtentReportManager"/>
+    </listeners>
+
+
+    <test name="Test1">
+        <classes>
+            <class name="api.test.UserTest"/>
+            <!--   <class name="api.test.DataDrivenTest"/>  -->
+        </classes>
+    </test>
+</suite>
