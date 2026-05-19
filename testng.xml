@@ -10,7 +10,7 @@
     <test name="Test1">
         <classes>
             <class name="api.test.UserTest"/>
-            <!--   <class name="api.test.DataDrivenTest"/>  -->
+            <class name="api.test.DataDrivenTest"/>
         </classes>
     </test>
 </suite>
