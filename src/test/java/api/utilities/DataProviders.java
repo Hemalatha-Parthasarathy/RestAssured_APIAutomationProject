@@ -20,6 +20,7 @@ public class DataProviders {
             apiData[i - 1][0] = i;
             for (int j = 0; j < colCount; j++) {
                 apiData[i - 1][j + 1] = xl.getCellData("Sheet1", i, j);
+
             }
         }
 
@@ -36,6 +37,7 @@ public class DataProviders {
         Object apidata[] = new Object[rowCount];
         for (int i = 1; i <= rowCount; i++) {
             apidata[i - 1] = xl.getCellData("Sheet1", i, 4);
+
 
         }
 

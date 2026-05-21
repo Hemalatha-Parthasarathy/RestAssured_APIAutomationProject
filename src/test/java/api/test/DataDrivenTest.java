@@ -16,11 +16,12 @@ public class DataDrivenTest {
 
     String path = System.getProperty("user.dir") + "//TestData//TestData.xlsx";
     ExcelUtilities xl = new ExcelUtilities(path);
+    UserPayload userPayload;
 
     @Test(priority = 1, dataProvider = "Data", dataProviderClass = DataProviders.class)
     public void createUserTest(int rowCount, String name, String email, String gender, String status) throws IOException {
 
-        UserPayload userPayload = new UserPayload();
+        userPayload = new UserPayload();
         userPayload.setName(name);
         userPayload.setEmail(email);
         userPayload.setGender(gender);
@@ -40,7 +41,7 @@ public class DataDrivenTest {
 
     @Test(priority = 2, dataProvider = "Id", dataProviderClass = DataProviders.class)
     public void deleteUserTest(String id) {
-        UserPayload userPayload = new UserPayload();
+        userPayload = new UserPayload();
 
         Response response = UserEndpoint.deleteUser(Integer.parseInt(id));
         response.then().log().all();
