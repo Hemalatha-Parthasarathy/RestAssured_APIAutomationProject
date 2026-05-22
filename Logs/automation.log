@@ -158,3 +158,11 @@
 15:40:57.145 [main] INFO  api.test.UserTest - **** Updated a User ***
 15:40:57.148 [main] INFO  api.test.UserTest - **** Deleting a User ***
 15:40:57.957 [main] INFO  api.test.UserTest - **** User is deleted ***
+11:52:44.686 [main] INFO  api.test.UserTest - **** Create a User ***
+11:52:57.834 [main] INFO  api.test.UserTest - **** Created a User with ID ***
+11:52:57.855 [main] INFO  api.test.UserTest - **** Reading a User ***
+11:52:58.923 [main] INFO  api.test.UserTest - **** User id displayed ***
+11:52:58.946 [main] INFO  api.test.UserTest - **** Updating a User ***
+11:52:59.566 [main] INFO  api.test.UserTest - **** Updated a User ***
+11:52:59.582 [main] INFO  api.test.UserTest - **** Deleting a User ***
+11:53:00.562 [main] INFO  api.test.UserTest - **** User is deleted ***
