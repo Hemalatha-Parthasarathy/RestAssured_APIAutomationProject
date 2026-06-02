@@ -6,7 +6,11 @@ public class UserPayload {
     String email;
     String gender;
     String status;
+    int id;
 
+    public int getId() {
+        return id;
+    }
 
     public String getName() {
         return username;

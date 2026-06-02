@@ -1,168 +1,115 @@
-14:08:24.321 [main] INFO  api.test.UserTest - **** Create a User ***
-14:08:32.016 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-14:08:32.033 [main] INFO  api.test.UserTest - **** Reading a User ***
-14:08:33.000 [main] INFO  api.test.UserTest - **** User id displayed ***
-14:08:33.006 [main] INFO  api.test.UserTest - **** Updating a User ***
-14:08:33.657 [main] INFO  api.test.UserTest - **** Updated a User ***
-14:08:33.670 [main] INFO  api.test.UserTest - **** Deleting a User ***
-14:08:34.637 [main] INFO  api.test.UserTest - **** User is deleted ***
-14:58:08.121 [main] INFO  api.test.UserTest - **** Create a User ***
-14:58:12.739 [main] INFO  api.test.UserTest - **** Reading a User ***
-14:58:13.577 [main] INFO  api.test.UserTest - **** Updating a User ***
-14:58:14.354 [main] INFO  api.test.UserTest - **** Deleting a User ***
-15:19:28.498 [main] INFO  api.test.UserTest - **** Create a User ***
-15:19:33.652 [main] INFO  api.test.UserTest - **** Reading a User ***
-15:19:34.334 [main] INFO  api.test.UserTest - **** Updating a User ***
-15:19:34.881 [main] INFO  api.test.UserTest - **** Deleting a User ***
-15:20:50.358 [main] INFO  api.test.UserTest - **** Create a User ***
-15:20:55.264 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-15:20:55.293 [main] INFO  api.test.UserTest - **** Reading a User ***
-15:20:55.921 [main] INFO  api.test.UserTest - **** User id displayed ***
-15:20:55.938 [main] INFO  api.test.UserTest - **** Updating a User ***
-15:20:56.764 [main] INFO  api.test.UserTest - **** Updated a User ***
-15:20:56.774 [main] INFO  api.test.UserTest - **** Deleting a User ***
-15:20:57.427 [main] INFO  api.test.UserTest - **** User is deleted ***
-16:02:47.785 [main] INFO  api.test.UserTest - **** Create a User ***
-16:02:49.463 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-16:02:49.466 [main] INFO  api.test.UserTest - **** Reading a User ***
-16:02:50.053 [main] INFO  api.test.UserTest - **** User id displayed ***
-16:02:50.059 [main] INFO  api.test.UserTest - **** Updating a User ***
-16:02:50.679 [main] INFO  api.test.UserTest - **** Updated a User ***
-16:02:50.685 [main] INFO  api.test.UserTest - **** Deleting a User ***
-16:02:51.154 [main] INFO  api.test.UserTest - **** User is deleted ***
-16:06:59.577 [main] INFO  api.test.UserTest - **** Create a User ***
-16:07:01.229 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-16:07:01.233 [main] INFO  api.test.UserTest - **** Reading a User ***
-16:07:01.702 [main] INFO  api.test.UserTest - **** User id displayed ***
-16:07:01.704 [main] INFO  api.test.UserTest - **** Updating a User ***
-16:07:02.170 [main] INFO  api.test.UserTest - **** Updated a User ***
-16:07:02.173 [main] INFO  api.test.UserTest - **** Deleting a User ***
-16:07:02.902 [main] INFO  api.test.UserTest - **** User is deleted ***
-16:10:17.171 [main] INFO  api.test.UserTest - **** Create a User ***
-16:10:22.211 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-16:10:22.232 [main] INFO  api.test.UserTest - **** Reading a User ***
-16:10:23.027 [main] INFO  api.test.UserTest - **** User id displayed ***
-16:10:23.039 [main] INFO  api.test.UserTest - **** Updating a User ***
-16:10:23.785 [main] INFO  api.test.UserTest - **** Updated a User ***
-16:10:23.796 [main] INFO  api.test.UserTest - **** Deleting a User ***
-16:10:24.510 [main] INFO  api.test.UserTest - **** User is deleted ***
-16:13:32.613 [main] INFO  api.test.UserTest - **** Create a User ***
-16:13:38.536 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-16:13:38.579 [main] INFO  api.test.UserTest - **** Reading a User ***
-16:13:41.497 [main] INFO  api.test.UserTest - **** User id displayed ***
-16:13:41.505 [main] INFO  api.test.UserTest - **** Updating a User ***
-16:13:41.968 [main] INFO  api.test.UserTest - **** Updated a User ***
-16:13:41.975 [main] INFO  api.test.UserTest - **** Deleting a User ***
-16:13:42.524 [main] INFO  api.test.UserTest - **** User is deleted ***
-16:15:45.689 [main] INFO  api.test.UserTest - **** Create a User ***
-16:15:46.184 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-16:15:46.186 [main] INFO  api.test.UserTest - **** Reading a User ***
-16:15:46.767 [main] INFO  api.test.UserTest - **** User id displayed ***
-16:15:46.771 [main] INFO  api.test.UserTest - **** Updating a User ***
-16:15:47.454 [main] INFO  api.test.UserTest - **** Updated a User ***
-16:15:47.462 [main] INFO  api.test.UserTest - **** Deleting a User ***
-16:15:48.097 [main] INFO  api.test.UserTest - **** User is deleted ***
-14:56:31.245 [main] INFO  api.test.UserTest - **** Create a User ***
-14:56:32.211 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-14:56:32.216 [main] INFO  api.test.UserTest - **** Reading a User ***
-14:56:32.866 [main] INFO  api.test.UserTest - **** User id displayed ***
-14:56:32.866 [main] INFO  api.test.UserTest - **** Updating a User ***
-14:56:33.513 [main] INFO  api.test.UserTest - **** Updated a User ***
-14:56:33.513 [main] INFO  api.test.UserTest - **** Deleting a User ***
-14:56:34.202 [main] INFO  api.test.UserTest - **** User is deleted ***
-14:29:07.067 [main] INFO  api.test.UserTest - **** Create a User ***
-14:29:07.927 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-14:29:07.934 [main] INFO  api.test.UserTest - **** Reading a User ***
-14:29:08.852 [main] INFO  api.test.UserTest - **** User id displayed ***
-14:29:08.860 [main] INFO  api.test.UserTest - **** Updating a User ***
-14:29:09.670 [main] INFO  api.test.UserTest - **** Updated a User ***
-14:29:09.677 [main] INFO  api.test.UserTest - **** Deleting a User ***
-14:29:10.623 [main] INFO  api.test.UserTest - **** User is deleted ***
-14:32:50.953 [main] INFO  api.test.UserTest - **** Create a User ***
-14:32:57.131 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-14:32:57.174 [main] INFO  api.test.UserTest - **** Reading a User ***
-14:32:58.991 [main] INFO  api.test.UserTest - **** User id displayed ***
-14:32:59.005 [main] INFO  api.test.UserTest - **** Updating a User ***
-14:33:00.102 [main] INFO  api.test.UserTest - **** Updated a User ***
-14:33:00.125 [main] INFO  api.test.UserTest - **** Deleting a User ***
-14:33:00.924 [main] INFO  api.test.UserTest - **** User is deleted ***
-14:43:51.229 [main] INFO  api.test.UserTest - **** Create a User ***
-14:43:57.346 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-14:43:57.370 [main] INFO  api.test.UserTest - **** Reading a User ***
-14:43:58.333 [main] INFO  api.test.UserTest - **** User id displayed ***
-14:43:58.343 [main] INFO  api.test.UserTest - **** Updating a User ***
-14:43:59.150 [main] INFO  api.test.UserTest - **** Updated a User ***
-14:43:59.169 [main] INFO  api.test.UserTest - **** Deleting a User ***
-14:44:00.069 [main] INFO  api.test.UserTest - **** User is deleted ***
-14:51:22.721 [main] INFO  api.test.UserTest - **** Create a User ***
-14:51:28.749 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-14:51:28.777 [main] INFO  api.test.UserTest - **** Reading a User ***
-14:51:29.609 [main] INFO  api.test.UserTest - **** User id displayed ***
-14:51:29.626 [main] INFO  api.test.UserTest - **** Updating a User ***
-14:51:30.425 [main] INFO  api.test.UserTest - **** Updated a User ***
-14:51:30.438 [main] INFO  api.test.UserTest - **** Deleting a User ***
-14:51:31.039 [main] INFO  api.test.UserTest - **** User is deleted ***
-14:56:39.516 [main] INFO  api.test.UserTest - **** Create a User ***
-14:56:45.200 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-14:56:45.225 [main] INFO  api.test.UserTest - **** Reading a User ***
-14:56:47.042 [main] INFO  api.test.UserTest - **** User id displayed ***
-14:56:47.059 [main] INFO  api.test.UserTest - **** Updating a User ***
-14:56:47.866 [main] INFO  api.test.UserTest - **** Updated a User ***
-14:56:47.879 [main] INFO  api.test.UserTest - **** Deleting a User ***
-14:56:48.537 [main] INFO  api.test.UserTest - **** User is deleted ***
-15:06:12.680 [main] INFO  api.test.UserTest - **** Create a User ***
-15:06:18.429 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-15:06:18.457 [main] INFO  api.test.UserTest - **** Reading a User ***
-15:06:19.113 [main] INFO  api.test.UserTest - **** User id displayed ***
-15:06:19.125 [main] INFO  api.test.UserTest - **** Updating a User ***
-15:06:19.761 [main] INFO  api.test.UserTest - **** Updated a User ***
-15:06:19.770 [main] INFO  api.test.UserTest - **** Deleting a User ***
-15:06:20.598 [main] INFO  api.test.UserTest - **** User is deleted ***
-15:08:51.379 [main] INFO  api.test.UserTest - **** Create a User ***
-15:08:57.294 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-15:08:57.322 [main] INFO  api.test.UserTest - **** Reading a User ***
-15:08:58.485 [main] INFO  api.test.UserTest - **** User id displayed ***
-15:08:58.500 [main] INFO  api.test.UserTest - **** Updating a User ***
-15:08:59.303 [main] INFO  api.test.UserTest - **** Updated a User ***
-15:08:59.321 [main] INFO  api.test.UserTest - **** Deleting a User ***
-15:09:00.224 [main] INFO  api.test.UserTest - **** User is deleted ***
-15:26:07.169 [main] INFO  api.test.UserTest - **** Create a User ***
-15:26:13.211 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-15:26:13.236 [main] INFO  api.test.UserTest - **** Reading a User ***
-15:26:13.950 [main] INFO  api.test.UserTest - **** User id displayed ***
-15:26:13.961 [main] INFO  api.test.UserTest - **** Updating a User ***
-15:26:14.667 [main] INFO  api.test.UserTest - **** Updated a User ***
-15:26:14.680 [main] INFO  api.test.UserTest - **** Deleting a User ***
-15:26:15.393 [main] INFO  api.test.UserTest - **** User is deleted ***
-15:32:23.960 [main] INFO  api.test.UserTest - **** Create a User ***
-15:32:30.478 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-15:32:30.513 [main] INFO  api.test.UserTest - **** Reading a User ***
-15:32:31.209 [main] INFO  api.test.UserTest - **** User id displayed ***
-15:32:31.225 [main] INFO  api.test.UserTest - **** Updating a User ***
-15:32:32.006 [main] INFO  api.test.UserTest - **** Updated a User ***
-15:32:32.025 [main] INFO  api.test.UserTest - **** Deleting a User ***
-15:32:32.820 [main] INFO  api.test.UserTest - **** User is deleted ***
-15:37:19.716 [main] INFO  api.test.UserTest - **** Create a User ***
-15:37:25.971 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-15:37:25.998 [main] INFO  api.test.UserTest - **** Reading a User ***
-15:37:26.913 [main] INFO  api.test.UserTest - **** User id displayed ***
-15:37:26.948 [main] INFO  api.test.UserTest - **** Updating a User ***
-15:37:28.044 [main] INFO  api.test.UserTest - **** Updated a User ***
-15:37:28.068 [main] INFO  api.test.UserTest - **** Deleting a User ***
-15:37:28.965 [main] INFO  api.test.UserTest - **** User is deleted ***
-15:40:55.141 [main] INFO  api.test.UserTest - **** Create a User ***
-15:40:55.758 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-15:40:55.771 [main] INFO  api.test.UserTest - **** Reading a User ***
-15:40:56.525 [main] INFO  api.test.UserTest - **** User id displayed ***
-15:40:56.527 [main] INFO  api.test.UserTest - **** Updating a User ***
-15:40:57.145 [main] INFO  api.test.UserTest - **** Updated a User ***
-15:40:57.148 [main] INFO  api.test.UserTest - **** Deleting a User ***
-15:40:57.957 [main] INFO  api.test.UserTest - **** User is deleted ***
-11:52:44.686 [main] INFO  api.test.UserTest - **** Create a User ***
-11:52:57.834 [main] INFO  api.test.UserTest - **** Created a User with ID ***
-11:52:57.855 [main] INFO  api.test.UserTest - **** Reading a User ***
-11:52:58.923 [main] INFO  api.test.UserTest - **** User id displayed ***
-11:52:58.946 [main] INFO  api.test.UserTest - **** Updating a User ***
-11:52:59.566 [main] INFO  api.test.UserTest - **** Updated a User ***
-11:52:59.582 [main] INFO  api.test.UserTest - **** Deleting a User ***
-11:53:00.562 [main] INFO  api.test.UserTest - **** User is deleted ***
+11:30:16.931 [main] INFO  api.test.RegressionSuite.GetUserTest - **** Reading a User ***
+11:30:21.070 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected status code is 200 - passed ***
+11:30:21.102 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected headers are validated- passed ***
+11:30:21.680 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected schema are validated- passed ***
+11:30:22.446 [main] INFO  api.test.RegressionSuite.GetUserTest - **** Reading a User ***
+11:30:23.112 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected status code is 200 - passed ***
+11:30:23.128 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected headers are validated - passed ***
+11:44:45.068 [main] INFO  api.test.RegressionSuite.GetUserTest - **** Reading a User ***
+11:44:49.536 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected status code is 200 - passed ***
+11:44:49.567 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected headers are validated- passed ***
+11:44:50.105 [main] INFO  api.test.RegressionSuite.GetUserTest - **** Reading all Users ***
+11:44:50.749 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected status code is 200 - passed ***
+11:44:50.749 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected headers are validated - passed ***
+11:45:53.919 [main] INFO  api.test.RegressionSuite.GetUserTest - **** Reading a User ***
+11:45:57.853 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected status code is 200 - passed ***
+11:45:57.885 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected headers are validated- passed ***
+11:45:58.610 [main] INFO  api.test.RegressionSuite.GetUserTest - **** Reading all Users ***
+11:45:59.136 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected status code is 200 - passed ***
+11:45:59.153 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected headers are validated - passed ***
+11:47:15.497 [main] INFO  api.test.RegressionSuite.GetUserTest - **** Reading a User ***
+11:47:19.333 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected status code is 200 - passed ***
+11:47:19.365 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected headers are validated- passed ***
+11:47:19.964 [main] INFO  api.test.RegressionSuite.GetUserTest - **** Reading all Users ***
+11:47:20.612 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected status code is 200 - passed ***
+11:47:20.627 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected headers are validated - passed ***
+11:47:20.658 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected schema are validated - passed ***
+11:48:32.741 [main] INFO  api.test.RegressionSuite.GetUserTest - **** Reading a User ***
+11:48:36.433 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected status code is 200 - passed ***
+11:48:36.465 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected headers are validated- passed ***
+11:48:37.073 [main] INFO  api.test.RegressionSuite.GetUserTest - **** Reading all Users ***
+11:48:37.590 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected status code is 200 - passed ***
+11:48:37.605 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected headers are validated - passed ***
+11:48:37.636 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected schema are validated - passed ***
+11:59:49.940 [main] INFO  api.test.RegressionSuite.GetUserTest - **** Reading a User ***
+11:59:54.430 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected status code is 200 - passed ***
+11:59:54.448 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected headers are validated- passed ***
+11:59:55.003 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected schema are validated- passed ***
+11:59:55.019 [main] INFO  api.test.RegressionSuite.GetUserTest - **** Reading all Users ***
+11:59:55.667 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected status code is 200 - passed ***
+11:59:55.682 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected headers are validated - passed ***
+11:59:55.699 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected schema are validated - passed ***
+12:41:39.739 [main] INFO  api.test.RegressionSuite.CreateUserTest - **** Create a User ***
+12:43:38.476 [main] INFO  api.test.RegressionSuite.CreateUserTest - **** Create a User ***
+12:44:41.265 [main] INFO  api.test.RegressionSuite.CreateUserTest - **** Create a User ***
+12:44:45.438 [main] INFO  api.test.RegressionSuite.CreateUserTest - *** Expected status code is 201 - passed ***
+12:44:45.471 [main] INFO  api.test.RegressionSuite.CreateUserTest - *** Expected headers are validated - passed ***
+12:44:45.854 [main] INFO  api.test.RegressionSuite.CreateUserTest - *** Expected schema are validated- passed ***
+12:44:46.751 [main] INFO  api.test.RegressionSuite.CreateUserTest - **** Created a User with ID ***
+12:44:47.288 [main] INFO  api.test.RegressionSuite.CreateUserTest - *** Expected status code is 200 - passed ***
+12:44:47.298 [main] INFO  api.test.RegressionSuite.CreateUserTest - *** Expected headers are validated- passed ***
+12:44:47.311 [main] INFO  api.test.RegressionSuite.CreateUserTest - *** Expected schema are validated- passed ***
+14:37:04.971 [main] INFO  api.test.RegressionSuite.UpdateUserTest - **** Create a User ***
+14:37:10.329 [main] INFO  api.test.RegressionSuite.UpdateUserTest - **** Created a User with ID ***
+14:37:10.923 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Data updated with status code is 200  - passed ***
+14:37:10.986 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data headers are validated- passed ***
+14:37:11.392 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data schema are validated- passed ***
+14:37:11.501 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data are validated against request data- passed ***
+14:37:12.002 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data with status code is 200 - passed ***
+14:37:12.018 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data headers are validated- passed ***
+14:37:12.049 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data schema are validated- passed ***
+14:42:27.112 [main] INFO  api.test.RegressionSuite.UpdateUserTest - **** Create a User ***
+14:42:32.911 [main] INFO  api.test.RegressionSuite.UpdateUserTest - **** Created a User with ID ***
+14:42:35.724 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Data updated with status code is 200  - passed ***
+14:42:35.740 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data headers are validated- passed ***
+14:42:36.068 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data schema are validated- passed ***
+14:42:36.224 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data are validated against request data- passed ***
+14:42:36.959 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data with status code is 200 - passed ***
+14:42:36.959 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data headers are validated- passed ***
+14:42:36.974 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data schema are validated- passed ***
+14:50:14.077 [main] INFO  api.test.RegressionSuite.UpdateUserTest - **** Create a User ***
+14:50:18.922 [main] INFO  api.test.RegressionSuite.UpdateUserTest - **** Created a User with ID ***
+14:50:19.626 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Data updated with status code is 200  - passed ***
+14:50:19.657 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data headers are validated- passed ***
+14:50:19.969 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data schema are validated- passed ***
+14:50:20.079 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data are validated against request data- passed ***
+14:50:20.674 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data with status code is 200 - passed ***
+14:50:20.674 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data headers are validated- passed ***
+14:50:20.706 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data schema are validated- passed ***
+14:55:08.462 [main] INFO  api.test.RegressionSuite.UpdateUserTest - **** Create a User ***
+14:59:08.364 [main] INFO  api.test.RegressionSuite.UpdateUserTest - **** Create a User ***
+15:04:17.800 [main] INFO  api.test.RegressionSuite.UpdateUserTest - **** Create a User ***
+15:04:23.207 [main] INFO  api.test.RegressionSuite.UpdateUserTest - **** Created a User with ID ***
+15:04:23.942 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Data updated with status code is 200  - passed ***
+15:04:23.973 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data headers are validated- passed ***
+15:04:24.339 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data schema are validated- passed ***
+15:04:24.449 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data are validated against request data- passed ***
+15:04:25.155 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data with status code is 200 - passed ***
+15:04:25.155 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data headers are validated- passed ***
+15:04:25.155 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data schema are validated- passed ***
+15:50:39.632 [main] INFO  api.test.RegressionSuite.UpdateUserTest - **** Created a User with ID ***
+15:50:40.526 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Data updated with status code is 200  - passed ***
+15:50:40.557 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data headers are validated- passed ***
+15:50:40.949 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data schema are validated- passed ***
+15:50:41.074 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data are validated against request data- passed ***
+15:50:41.682 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data are validated through GET Call - passed ***
+15:50:42.422 [main] INFO  api.test.RegressionSuite.UpdateUserTest - **** Created a User with ID ***
+16:00:11.746 [main] INFO  api.test.RegressionSuite.UpdateUserTest - **** Created a User with ID ***
+16:00:12.493 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Data updated with status code is 200  - passed ***
+16:00:12.518 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data headers are validated- passed ***
+16:00:12.887 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data schema are validated- passed ***
+16:00:13.013 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data are validated against request data- passed ***
+16:00:13.670 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data are validated through GET Call - passed ***
+16:00:14.241 [main] INFO  api.test.RegressionSuite.UpdateUserTest - **** Created a User with ID ***
+16:43:26.620 [main] INFO  api.test.RegressionSuite.UpdateUserTest - **** Created a User with ID ***
+16:43:27.102 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Data updated with status code is 200  - passed ***
+16:43:27.107 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data headers are validated- passed ***
+16:43:27.116 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data schema are validated- passed ***
+16:43:27.283 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data are validated against request data- passed ***
+16:43:27.894 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data are validated through GET Call - passed ***
+16:43:50.658 [main] INFO  api.test.RegressionSuite.UpdateUserTest - **** Created a User with ID ***
+16:43:51.410 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Data updated with status code is 200  - passed ***
+16:43:51.419 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data headers are validated- passed ***
+16:43:51.447 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data schema are validated- passed ***
+16:43:51.622 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data are validated against request data- passed ***
+16:43:52.258 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data are validated through GET Call - passed ***

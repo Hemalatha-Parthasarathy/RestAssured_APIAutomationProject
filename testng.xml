@@ -9,8 +9,9 @@
 
     <test name="Test1">
         <classes>
-            <class name="api.test.UserTest"/>
-            <class name="api.test.DataDrivenTest"/>
+            <class name="api.test.ResgressionSuite.UserTest"/>
+            <class name="api.test.ResgressionSuite.DataDrivenTest"/>
+            <class name="api.test.ResgressionSuite.ErrorScenarioTest"/>
         </classes>
     </test>
 </suite>

@@ -1,4 +1,4 @@
-package api.test;
+package api.test.RegressionSuite;
 
 import api.endpoints.UserEndpoint;
 import api.payloads.UserPayload;
@@ -62,7 +62,7 @@ public class ErrorScenarioTest {
     public void unknownIDTest() {
         userPayload = new UserPayload();
 
-        Response response = UserEndpoint.readUser(123);
+        Response response = UserEndpoint.readSingleUser(123);
         response.then().log().all();
 
         Assert.assertEquals(response.getStatusCode(), 404);

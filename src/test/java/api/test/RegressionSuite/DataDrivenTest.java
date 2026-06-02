@@ -1,4 +1,4 @@
-package api.test;
+package api.test.RegressionSuite;
 
 import api.endpoints.UserEndpoint;
 import api.payloads.UserPayload;
@@ -9,8 +9,6 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Arrays;
 
 public class DataDrivenTest {
 
