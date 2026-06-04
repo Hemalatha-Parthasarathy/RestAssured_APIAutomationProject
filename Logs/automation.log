@@ -113,3 +113,26 @@
 16:43:51.447 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data schema are validated- passed ***
 16:43:51.622 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data are validated against request data- passed ***
 16:43:52.258 [main] INFO  api.test.RegressionSuite.UpdateUserTest - *** Updated data are validated through GET Call - passed ***
+12:48:06.675 [main] INFO  api.test.RegressionSuite.DeleteUserTest - ****Created a User***
+12:48:13.281 [main] INFO  api.test.RegressionSuite.DeleteUserTest - ****Get the created User***
+12:48:14.549 [main] INFO  api.test.RegressionSuite.DeleteUserTest - ****Delete the created User***
+12:48:15.149 [main] INFO  api.test.RegressionSuite.DeleteUserTest - *** Expected status code is 204 deleted with No content - passed ***
+12:48:15.152 [main] INFO  api.test.RegressionSuite.DeleteUserTest - ****Get the created User***
+12:51:57.065 [main] INFO  api.test.RegressionSuite.DeleteUserTest - ****Created a User***
+12:52:03.581 [main] INFO  api.test.RegressionSuite.DeleteUserTest - ****Get the created User***
+12:52:04.756 [main] INFO  api.test.RegressionSuite.DeleteUserTest - ****Delete the created User***
+12:52:05.569 [main] INFO  api.test.RegressionSuite.DeleteUserTest - *** Expected status code is 204 deleted with No content - passed ***
+12:52:05.569 [main] INFO  api.test.RegressionSuite.DeleteUserTest - ****Get the created User***
+12:53:54.736 [main] INFO  api.test.RegressionSuite.DeleteUserTest - ****Created a User***
+13:24:05.632 [main] INFO  api.test.RegressionSuite.DeleteUserTest - ****Created a User***
+13:24:10.895 [main] INFO  api.test.RegressionSuite.DeleteUserTest - ****Get the created User***
+13:26:21.780 [main] INFO  api.test.RegressionSuite.DeleteUserTest - ****Created a User***
+13:26:27.157 [main] INFO  api.test.RegressionSuite.DeleteUserTest - ****Get the created User***
+13:26:28.206 [main] INFO  api.test.RegressionSuite.DeleteUserTest - ****Delete the created User***
+13:26:34.048 [main] INFO  api.test.RegressionSuite.DeleteUserTest - *** Expected status code is 204 deleted with No content - passed ***
+13:26:34.048 [main] INFO  api.test.RegressionSuite.DeleteUserTest - ****Get the deleted User***
+13:26:35.236 [main] INFO  api.test.RegressionSuite.DeleteUserTest - *** status code 404 stating not found - passed ***
+11:34:12.626 [main] INFO  api.test.RegressionSuite.GetUserTest - **** Reading all Users ***
+11:34:16.808 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected status code is 200 - passed ***
+11:34:16.841 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected headers are validated - passed ***
+11:34:17.427 [main] INFO  api.test.RegressionSuite.GetUserTest - *** Expected schema are validated - passed ***

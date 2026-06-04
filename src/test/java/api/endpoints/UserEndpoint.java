@@ -129,6 +129,37 @@ public class UserEndpoint {
         return response;
     }
 
+    public static Response readAllUsersByStatus(String status) {
+        String getAll_url = getURL().getString("getAll_url");
+
+        Response response = given()
+                .queryParam("status", status)
+                .when().get(getAll_url);
+
+        return response;
+    }
+
+    public static Response readAllUsersByGender(String gender) {
+        String getAll_url = getURL().getString("getAll_url");
+
+        Response response = given()
+                .queryParam("gender", gender)
+                .when().get(getAll_url);
+
+        return response;
+    }
+
+    public static Response readAllUsersByPages(int page) {
+        String getAll_url = getURL().getString("getAll_url");
+
+        Response response = given()
+                .queryParam("page", String.valueOf(page))
+                .when().get(getAll_url);
+
+        return response;
+    }
+
+
     public static Response updatePUTUser(int id, UserPayload payload) {
         String update_url = getURL().getString("update_url");
         String token = getURL().getString("token");
